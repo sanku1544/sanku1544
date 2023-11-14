@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanketN1544
+- 👋 Hi, I’m @SanketN1544
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on Git Hub and Indeed
