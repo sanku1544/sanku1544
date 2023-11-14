@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sanku1544
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning BCA
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me my Email
 
 <!---
 sanku1544/sanku1544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
